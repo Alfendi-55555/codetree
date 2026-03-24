@@ -9,4 +9,4 @@ b = (10000*w)//(h*h)
 print(math.floor(b))
 
 if b>= 25:
-    print(Obesity)
+    print("Obesity")
